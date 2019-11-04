@@ -1,4 +1,4 @@
-* [首页](guide)
+* [首页](hot.md)
 
 * Android
   
