@@ -53,3 +53,5 @@
 
 * Tips
 
+  - [其他](guide/tipsGuide.md)
+
