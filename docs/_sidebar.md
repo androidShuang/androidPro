@@ -40,4 +40,4 @@
 * 工具相关
 * 杂文
 * Tips
-- [其他](guide/tipsGuide.md)
+  - [其他](guide/tipsGuide.md)
