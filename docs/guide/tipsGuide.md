@@ -1,1 +1,2 @@
 - [发布docsify注意事项](tips/发布docsify到githubpages.md)
+- [Linux-关闭笔记本盖不休眠](tips/Linux-关闭笔记本盖不休眠.md)
