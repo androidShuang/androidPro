@@ -112,6 +112,19 @@
    sudo apt-get install libsdl1.2debian:i386
    ```
 
+   下载2.3源码
+
+   ```
+   下载链接：http://pan.baidu.com/s/1eRNFNLw 密码：wthp
+   ```
+
+   解压缩
+
+   ```
+   cd ./android
+   sudo tar -xf Android_Kernel.tar --exclude */.git -C android
+   ```
+
    编译android源码
 
    ```
